@@ -1,1 +1,1 @@
-# date-diff-calculater
+# date-diff-calculator
